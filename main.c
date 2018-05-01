@@ -6,6 +6,7 @@ int main()
 {
    matrice_creuse mat ;
    int tab[N][M] ;
+   // Init matrice (0 mis si i = j
    for (int i = 0; i < N; i++)
       for (int j = 0; j < M; j++)
       {
