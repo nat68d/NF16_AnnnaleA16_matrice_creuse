@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1524866470 source:c:\users\nathalie\documents\program_c\nf16_annnalea16_matrice_creuse\ex3.c
+	<stdio.h>
+	<stdlib.h>
+	"ex3.h"
+
+1524866378 c:\users\nathalie\documents\program_c\nf16_annnalea16_matrice_creuse\ex3.h
+
+1524866378 source:c:\users\nathalie\documents\program_c\nf16_annnalea16_matrice_creuse\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ex3.h"
+
