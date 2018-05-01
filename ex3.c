@@ -80,8 +80,9 @@ void putValue(matrice_creuse m, int i, int j, int val)
    if ( lst )
    {  // donc colonne j trouvée : valeur mise à jour
       if (val == 0)
-      { // ATTENTION : si val == 0, il faut supprimer l'elt !!!
-         lst->valeur = val ; // à supprimer
+      {
+         // ATTENTION : si val == 0, il faut supprimer l'elt !!!
+         lst->valeur = val ; // à supprimer cat il faut supprimer l'elt
       }
       else
          lst->valeur = val ;
