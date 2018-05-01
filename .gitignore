@@ -1,0 +1,5 @@
+
+*.exe
+obj/Debug/ex3.o
+NF16_AnnnaleA16_matrice_creuse.depend
+bin/Debug/NF16_AnnnaleA16_matrice_creuse.exe
